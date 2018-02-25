@@ -12,5 +12,8 @@ paste it on notepad or text editor(vim/sublime text/atom)
 Of course since this is html codes(or files depending on how you planning to copy it)  
 What you should do is copy the whole code to an text editor and save it with .html tag at the end  
 then proceed to open it on you browser (google chrom/ firefox / safari / IE6 )  
-with Ctrl + O and click on the file
+with Ctrl + O and click on the file  
+
+## Notes Notes  
+github page coming soon
 
