@@ -14,7 +14,7 @@ What you should do is copy the whole code to an text editor and save it with .ht
 then proceed to open it on you browser (google chrom/ firefox / safari / IE6 )  
 with Ctrl + O and click on the file  
 ## Lists
-[The Kid](/art/the kid.html)
+[The Kid](./art/the kid.html)
 ## Notes Notes  
 github page coming soon
 
