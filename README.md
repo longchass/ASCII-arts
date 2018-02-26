@@ -17,6 +17,6 @@ with Ctrl + O and click on the file
 ## Notes Notes  
 github page coming soon
 
-[the kid](the kid.html)
+[the kid](art/thekid.html)
 
 [a relative link](other_file.md)
