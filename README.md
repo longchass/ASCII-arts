@@ -18,5 +18,6 @@ with Ctrl + O and click on the file
 github page coming soon
 
 [the kid](art/thekid.html)
+[Collection](art/Art.md)
 
 [a relative link](other_file.md)
