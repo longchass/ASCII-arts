@@ -15,7 +15,7 @@ then proceed to open it on you browser (google chrom/ firefox / safari / IE6 )
 with Ctrl + O and click on the file  
 # Lists
 
-[the kid](art/thekid.html)
+[the kid](art/Art.md)
 
 ## Notes Notes  
 github page coming soon
